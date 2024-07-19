@@ -1,0 +1,170 @@
+/* App.css */
+
+/* .app-background {
+    background-color: #f0f0f0;
+    min-height: 100vh;
+    padding: 2rem;
+    font-family: 'Roboto', sans-serif;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+  
+  .app-title {
+    color: #333;
+    font-weight: 700;
+    margin-bottom: 1rem;
+    text-shadow: 1px 1px 3px rgba(0, 0, 0, 0.3);
+  }
+  
+  .app-card {
+    border-radius: 15px;
+    overflow: hidden;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2), 0 6px 20px rgba(0, 0, 0, 0.19);
+    transition: transform 0.3s;
+  }
+  
+  .app-card:hover {
+    transform: translateY(-10px);
+  }
+  
+  .app-card img {
+    object-fit: cover;
+  }
+  
+  .app-button {
+    background-color: #007bff;
+    border-color: #007bff;
+    border-radius: 25px;
+    padding: 10px 20px;
+    font-weight: bold;
+    transition: background-color 0.3s, border-color 0.3s, transform 0.3s;
+  }
+  
+  .app-button:hover {
+    background-color: #0056b3;
+    border-color: #0056b3;
+    transform: scale(1.05);
+  }
+  
+  .app-input {
+    border-radius: 10px;
+    border: 1px solid #ccc;
+    padding: 10px;
+    width: 100%;
+    box-sizing: border-box;
+    box-shadow: inset 0 2px 5px rgba(0, 0, 0, 0.1);
+    transition: box-shadow 0.3s;
+  }
+  
+  .app-input:focus {
+    box-shadow: inset 0 2px 5px rgba(0, 0, 0, 0.2);
+  }
+  
+  .app-slider {
+    width: 100%;
+    appearance: none;
+    height: 8px;
+    background: linear-gradient(90deg, #007bff 0%, #0056b3 100%);
+    outline: none;
+    opacity: 0.7;
+    transition: opacity 0.2s;
+    border-radius: 10px;
+  }
+  
+  .app-slider:hover {
+    opacity: 1;
+  }
+  
+  .app-slider::-webkit-slider-thumb {
+    appearance: none;
+    width: 25px;
+    height: 25px;
+    border-radius: 50%;
+    background: #007bff;
+    cursor: pointer;
+    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.3);
+    transition: background 0.3s, transform 0.3s;
+  }
+  
+  .app-slider::-webkit-slider-thumb:hover {
+    background: #0056b3;
+    transform: scale(1.1);
+  }
+  
+  .app-slider::-moz-range-thumb {
+    width: 25px;
+    height: 25px;
+    border-radius: 50%;
+    background: #007bff;
+    cursor: pointer;
+    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.3);
+    transition: background 0.3s, transform 0.3s;
+  }
+  
+  .app-slider::-moz-range-thumb:hover {
+    background: #0056b3;
+    transform: scale(1.1);
+  }
+  
+  .form-label {
+    transition: color 0.3s, font-weight 0.3s;
+  }
+  
+  .form-label:hover {
+    color: #007bff;
+    font-weight: bold;
+  }
+  
+  
+
+  .form-label {
+    font-weight: bold;
+    color: black;
+  }
+  
+  .form-text {
+    font-weight: bold;
+    font-size: 4 rem;
+  }
+
+
+  .form-label {
+    transition: color 0.3s, font-weight 0.3s;
+  }
+  
+  .form-label:hover {
+    color: #007bff;
+    font-weight: bold;
+  }
+   */
+
+   .app-background {
+    background-color: #f7f7f7;
+    min-height: 100vh;
+    padding-top: 30px;
+  }
+  
+  .app-title {
+    font-weight: 700;
+    color: #333;
+  }
+  
+  .app-slider {
+    width: 100%;
+  }
+  
+  .app-input {
+    width: 100%;
+  }
+  
+  .app-button {
+    width: 100%;
+  }
+  
+  .app-card {
+    background-color: white;
+    border: none;
+    border-radius: 8px;
+  }
+  
